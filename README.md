@@ -1,6 +1,6 @@
 # --- EJERCICIOS BÁSICOS PYTHON ---
 
-Se trata de una colección de ejercícios simples realizados con python.
+Se trata de una colección de ejercicios simples realizados con python.
 
 Cada archivo individual cuenta con su enunciado específico y con algunos comentarios de ayuda en ciertos puntos del código. Además, todo se encuentra organizado en carpetas.
 
